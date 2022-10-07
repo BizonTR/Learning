@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Employee
+    internal class Vehicle
     {
-        public string Name { get; set; }
-        public string LastName { get; set; }
-        public string EmployeeId { get; set; }
-        public double Salary { get; set; }
         public string Id { get; set; }
+        public string Brand { get; set; }
+        public string ColorCode { get; set; }
+        public bool IsAvailable { get; set; }
         public string Office { get; set; }
     }
 }
