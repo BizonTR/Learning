@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\BATUHAN\\Desktop\\Learning\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\ClassLibrary1.csproj",
-        "packagesPath": "C:\\Users\\Samsunspor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\obj\\",
+        "projectPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\BATUHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samsunspor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BATUHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\BATUHAN\\Desktop\\Learning\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\Samsunspor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\BATUHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samsunspor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BATUHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "C:\\Users\\Samsunspor\\source\\repos\\Learning\\ClassLibrary1\\ClassLibrary1.csproj"
+              "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
