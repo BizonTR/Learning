@@ -10,6 +10,11 @@ namespace ClassLibrary1
 {
     public class Employee
     {
+        public Employee()
+        {
+            Console.WriteLine("Employee Class Used. ");
+            Id ="Id not assigned.";
+        }
         public string Name { get; set; } //get varsa bu değişken farklı metodlar tarafından okunabilir, set varsa bu değişkene bir değer yazılabilir.
         public string LastName { get; set; }
         public string EmployeeId { get; set; }
