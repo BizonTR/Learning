@@ -15,6 +15,17 @@ namespace ClassLibrary1
             Console.WriteLine("Employee Class Used. ");
             Id ="Id not assigned.";
         }
+
+        public Employee(string name, string lastname)
+        {
+            Name = name;
+            LastName = lastname;
+        }
+
+        public override string ToString()
+        {
+            return FullName;
+        }
         public string Name { get; set; } //get varsa bu değişken farklı metodlar tarafından okunabilir, set varsa bu değişkene bir değer yazılabilir.
         public string LastName { get; set; }
         public string EmployeeId { get; set; }
@@ -53,7 +64,7 @@ namespace ClassLibrary1
         public string FullName { 
             get
             {
-                return string.Join(Name," ",LastName);
+                return $"{Name} {LastName}";
             }
             }
 
