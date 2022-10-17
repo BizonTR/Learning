@@ -11,7 +11,11 @@ namespace ClassLibrary1
         public override void Drawing()
         {
             //base.Drawing();
-            Console.WriteLine($"Rectangle drawing... X: {X} - Y: {Y}");
+            Console.WriteLine($"Rectangle drawing... X: {X} - Y: {Y} - Area: {CalculateArea()}");
+        }
+        protected override decimal CalculateArea()
+        {
+            return (19);
         }
     }
 }

@@ -14,7 +14,12 @@ namespace ClassLibrary1
 
         public virtual void Drawing()
         {
-            Console.WriteLine($"Shape drawing... X: {X} - Y: {Y}");
+            Console.WriteLine($"Shape drawing... X: {X} - Y: {Y}  - Area: {CalculateArea()}");
+        }
+
+        protected virtual decimal CalculateArea()
+        {
+            return(55);
         }
     }
 }

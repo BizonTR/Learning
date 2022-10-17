@@ -10,7 +10,11 @@ namespace ClassLibrary1
     {
         public override void Drawing()
         {
-            Console.WriteLine($"Triangle drawing... X: {X} - Y: {Y}");
+            Console.WriteLine($"Triangle drawing... X: {X} - Y: {Y} - Area: {CalculateArea()}");
+        }
+        protected override decimal CalculateArea()
+        {
+            return (100);
         }
     }
 }
