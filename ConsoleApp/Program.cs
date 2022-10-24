@@ -1,5 +1,7 @@
 ﻿using ClassLibrary1;
+using ProductDB;
 using System.Drawing;
+using System.Security.Cryptography;
 
 Employee emp1 = new Employee();
 
@@ -35,3 +37,29 @@ foreach (var item in list)
 {
     item.Drawing();
 }
+
+////////////// BOLUM 3 //////////////
+Console.WriteLine("*******BOLUM 3*******");
+
+ProductData.GetAll();
+
+Cart myCart = new Cart();
+
+myCart.AddItem
+    (
+    new CartItem()
+    {
+        Product = ProductData.Products[0],
+        Quantity = 10
+    }
+    );
+myCart.AddItem
+    (
+    new CartItem()
+    {
+        Product = ProductData.Products[1],
+        Quantity = 5
+    }
+    );
+
+myCart.ShowCart();

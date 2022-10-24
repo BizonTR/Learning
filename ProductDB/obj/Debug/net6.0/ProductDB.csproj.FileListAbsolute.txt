@@ -1,0 +1,15 @@
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\bin\Debug\net6.0\ProductDB.deps.json
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\bin\Debug\net6.0\ProductDB.dll
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\bin\Debug\net6.0\ProductDB.pdb
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.AssemblyInfoInputs.cache
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.AssemblyInfo.cs
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.dll
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\refint\ProductDB.dll
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ProductDB.pdb
+C:\Users\BATUHAN\Desktop\Learning\ProductDB\obj\Debug\net6.0\ref\ProductDB.dll

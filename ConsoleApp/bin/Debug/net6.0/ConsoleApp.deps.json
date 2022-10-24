@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "ConsoleApp/1.0.0": {
         "dependencies": {
-          "ClassLibrary1": "1.0.0"
+          "ClassLibrary1": "1.0.0",
+          "ProductDB": "1.0.0"
         },
         "runtime": {
           "ConsoleApp.dll": {}
@@ -17,6 +18,14 @@
       "ClassLibrary1/1.0.0": {
         "runtime": {
           "ClassLibrary1.dll": {}
+        }
+      },
+      "ProductDB/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "ProductDB.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductDB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

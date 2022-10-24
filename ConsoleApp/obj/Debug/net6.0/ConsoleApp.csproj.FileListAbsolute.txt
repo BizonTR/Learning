@@ -34,3 +34,5 @@ C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\bin\Debug\net6.0\ClassLibrary1.pdb
 C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
 C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\bin\Debug\net6.0\ProductDB.dll
+C:\Users\BATUHAN\Desktop\Learning\ConsoleApp\bin\Debug\net6.0\ProductDB.pdb

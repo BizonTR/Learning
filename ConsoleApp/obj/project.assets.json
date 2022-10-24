@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/ClassLibrary1.dll": {}
         }
+      },
+      "ProductDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProductDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductDB.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../ClassLibrary1/ClassLibrary1.csproj",
       "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ProductDB/1.0.0": {
+      "type": "project",
+      "path": "../ProductDB/ProductDB.csproj",
+      "msbuildProject": "../ProductDB/ProductDB.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ClassLibrary1 >= 1.0.0"
+      "ClassLibrary1 >= 1.0.0",
+      "ProductDB >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj": {
               "projectPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ClassLibrary1\\ClassLibrary1.csproj"
+            },
+            "C:\\Users\\BATUHAN\\Desktop\\Learning\\ProductDB\\ProductDB.csproj": {
+              "projectPath": "C:\\Users\\BATUHAN\\Desktop\\Learning\\ProductDB\\ProductDB.csproj"
             }
           }
         }
